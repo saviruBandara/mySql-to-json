@@ -1,1 +1,1 @@
-# mySql-to-json
+# mySql-to-jsona
