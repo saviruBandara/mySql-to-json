@@ -1,4 +1,4 @@
-# mySql-to-jsona
+# mySql-to-json
 
 code example
 -Java
